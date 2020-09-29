@@ -1,4 +1,4 @@
-/app/app.python
+/app/app.pythonにradisの練習メソッドを書く
 docker-compose up --build
 
 docker-compose logs
